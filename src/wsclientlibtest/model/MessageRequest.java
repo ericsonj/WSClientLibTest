@@ -1,7 +1,7 @@
 package wsclientlibtest.model;
 
 /**
- *
+ * fwef
  * @author ejoseph
  */
 public class MessageRequest {
